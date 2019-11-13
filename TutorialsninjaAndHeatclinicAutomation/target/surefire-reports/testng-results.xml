@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tutorialsNinja" duration-ms="48274" started-at="2019-11-13T08:44:54Z" finished-at="2019-11-13T08:45:42Z">
+    <groups>
+    </groups>
+    <test name="tutorialNinjaTest" duration-ms="48274" started-at="2019-11-13T08:44:54Z" finished-at="2019-11-13T08:45:42Z">
+      <class name="com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation">
+        <test-method status="PASS" signature="intitailizeBrowser()[pri:0, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation@50f8360d]" name="intitailizeBrowser" is-config="true" duration-ms="18409" started-at="2019-11-13T08:44:35Z" finished-at="2019-11-13T08:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method status="PASS" signature="intailization()[pri:0, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation@50f8360d]" name="intailization" is-config="true" duration-ms="10764" started-at="2019-11-13T08:44:54Z" finished-at="2019-11-13T08:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intailization -->
+        <test-method status="PASS" signature="tutorialsNinjaHomePageValidation()[pri:1, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation@50f8360d]" name="tutorialsNinjaHomePageValidation" duration-ms="48" started-at="2019-11-13T08:45:05Z" finished-at="2019-11-13T08:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tutorialsNinjaHomePageValidation -->
+        <test-method status="PASS" signature="tutorialsNinjaProductValidation()[pri:2, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation@50f8360d]" name="tutorialsNinjaProductValidation" duration-ms="34512" started-at="2019-11-13T08:45:05Z" finished-at="2019-11-13T08:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tutorialsNinjaProductValidation -->
+        <test-method status="PASS" signature="cartValidation()[pri:3, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation@50f8360d]" name="cartValidation" duration-ms="2886" started-at="2019-11-13T08:45:39Z" finished-at="2019-11-13T08:45:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartValidation -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation@50f8360d]" name="endTest" is-config="true" duration-ms="1292" started-at="2019-11-13T08:45:42Z" finished-at="2019-11-13T08:45:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation -->
+    </test> <!-- tutorialNinjaTest -->
+  </suite> <!-- tutorialsNinja -->
+  <suite name="heatClinic" duration-ms="70701" started-at="2019-11-13T08:45:54Z" finished-at="2019-11-13T08:47:05Z">
+    <groups>
+    </groups>
+    <test name="heatClinicTest" duration-ms="70701" started-at="2019-11-13T08:45:54Z" finished-at="2019-11-13T08:47:05Z">
+      <class name="com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting">
+        <test-method status="PASS" signature="intitailizeBrowser()[pri:0, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting@48eff760]" name="intitailizeBrowser" is-config="true" duration-ms="10526" started-at="2019-11-13T08:45:43Z" finished-at="2019-11-13T08:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method status="PASS" signature="intailization()[pri:0, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting@48eff760]" name="intailization" is-config="true" duration-ms="11673" started-at="2019-11-13T08:45:54Z" finished-at="2019-11-13T08:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intailization -->
+        <test-method status="PASS" signature="headerRedirectionValidation()[pri:1, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting@48eff760]" name="headerRedirectionValidation" duration-ms="5521" started-at="2019-11-13T08:46:06Z" finished-at="2019-11-13T08:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerRedirectionValidation -->
+        <test-method status="FAIL" signature="merchandiseFunctionality([Ljava.lang.String;)[pri:2, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting@48eff760]" name="merchandiseFunctionality" duration-ms="53433" started-at="2019-11-13T08:46:11Z" data-provider="shirtdata" finished-at="2019-11-13T08:47:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5b5b5011]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for presence of element located by: By.cssSelector: table#cart_products>tbody>:nth-child(1)>:nth-child(2)>a (tried for 30 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.cssSelector: table#cart_products>tbody>:nth-child(1)>:nth-child(2)>a (tried for 30 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.helper.Waits.waitPresenceOfElementLocated(Waits.java:110)
+at com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.pages.HeatClinicValidation.addTheShirtToCart(HeatClinicValidation.java:98)
+at com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting.merchandiseFunctionality(HeatClinicFuctionalityTesting.java:79)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1204)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"table#cart_products>tbody>:nth-child(1)>:nth-child(2)>a"}
+  (Session info: chrome=78.0.3904.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-087', ip: '55.55.52.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\ARJUN~1.SAN\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:59544}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d1a4784998ef9a06cb68893722811a51
+*** Element info: {Using=css selector, value=table#cart_products>tbody>:nth-child(1)>:nth-child(2)>a}
+at sun.reflect.GeneratedConstructorAccessor51.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:420)
+at org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:182)
+at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:179)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 33 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- merchandiseFunctionality -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting@48eff760]" name="endTest" is-config="true" duration-ms="892" started-at="2019-11-13T08:47:05Z" finished-at="2019-11-13T08:47:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting -->
+    </test> <!-- heatClinicTest -->
+  </suite> <!-- heatClinic -->
+  <suite name="tutorialsNinjaAndHeatClinic" duration-ms="0" started-at="2019-11-13T08:47:06Z" finished-at="2019-11-13T08:47:06Z">
+    <groups>
+    </groups>
+  </suite> <!-- tutorialsNinjaAndHeatClinic -->
+</testng-results>

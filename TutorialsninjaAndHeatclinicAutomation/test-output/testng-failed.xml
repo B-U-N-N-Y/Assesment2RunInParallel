@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="15" parallel="tests" name="Failed suite [mysuite]">
+  <test thread-count="15" parallel="tests" name="Test validate internet explorercom.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation(failed)">
+    <parameter name="browser" value="internet explorer"/>
+    <classes>
+      <class name="com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation">
+        <methods>
+          <include name="intitailizeBrowser"/>
+          <include name="endTest"/>
+          <include name="cartValidation"/>
+          <include name="tutorialsNinjaProductValidation"/>
+          <include name="intailization"/>
+        </methods>
+      </class> <!-- com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation -->
+    </classes>
+  </test> <!-- Test validate internet explorercom.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation(failed) -->
+</suite> <!-- Failed suite [mysuite] -->
