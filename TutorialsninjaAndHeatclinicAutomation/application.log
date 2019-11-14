@@ -3723,3 +3723,407 @@
 2019-11-13 20:35:44,679  INFO [TestNG-tests-3] LogReport:69 - Validation pass:$3,852.40 and $3,852.40 match
 2019-11-13 20:35:46,270  INFO [TestNG-tests-3] LogReport:76 - Grand total after quantity updation
 2019-11-13 20:35:46,270  INFO [TestNG-tests-3] LogReport:77 - Validation pass:$2,650.40 and $2,650.40 match
+2019-11-14 11:09:27,625  INFO [TestNG-tests-5] LogReport:45 - Homepage is invoking
+2019-11-14 11:09:27,737  INFO [TestNG-tests-5] LogReport:46 - Page Redirection Validation pass:The Ninja Store and The Ninja Store match
+2019-11-14 11:09:27,738  INFO [TestNG-tests-5] LogReport:47 - HomePage validate successfull
+2019-11-14 11:09:28,380  INFO [TestNG-tests-5] LogReport:83 - Searching for iPhone and validating the product details
+2019-11-14 11:09:28,381  INFO [TestNG-tests-5] LogReport:84 - Searching the iPhone
+2019-11-14 11:09:29,018  INFO [TestNG-tests-3] LogReport:45 - Homepage is invoking
+2019-11-14 11:09:29,221  INFO [TestNG-tests-3] LogReport:46 - Page Redirection Validation pass:The Ninja Store and The Ninja Store match
+2019-11-14 11:09:29,221  INFO [TestNG-tests-3] LogReport:47 - HomePage validate successfull
+2019-11-14 11:09:29,904  INFO [TestNG-tests-3] LogReport:83 - Searching for iPhone and validating the product details
+2019-11-14 11:09:29,919  INFO [TestNG-tests-3] LogReport:84 - Searching the iPhone
+2019-11-14 11:09:31,280  INFO [TestNG-tests-1] LogReport:58 - Hearder is traverse
+2019-11-14 11:09:35,795  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces match
+2019-11-14 11:09:39,442  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Broadleaf Commerce Demo Store - Heat Clinic - Merchandise match
+2019-11-14 11:09:41,775  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Broadleaf Commerce Demo Store - Heat Clinic - Clearance match
+2019-11-14 11:09:44,610  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce match
+2019-11-14 11:09:46,840  INFO [TestNG-tests-3] LogReport:92 - iPhone searching successfully
+2019-11-14 11:09:46,845  INFO [TestNG-tests-3] LogReport:93 - product name validation
+2019-11-14 11:09:46,840  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Broadleaf Commerce Demo Store - Heat Clinic - FAQ match
+2019-11-14 11:09:48,296  INFO [TestNG-tests-3] LogReport:96 - Validation pass:iPhone and iPhone match
+2019-11-14 11:09:48,296  INFO [TestNG-tests-3] LogReport:97 - product price validation
+2019-11-14 11:09:48,409  INFO [TestNG-tests-3] LogReport:99 - Validation pass:$123.20 and $123.20 match
+2019-11-14 11:09:48,410  INFO [TestNG-tests-3] LogReport:101 - product ex-tax validation
+2019-11-14 11:09:49,057  INFO [TestNG-tests-3] LogReport:103 - Validation pass:Ex Tax: $101.00 and Ex Tax: $101.00 match
+2019-11-14 11:09:49,058  INFO [TestNG-tests-3] LogReport:106 - product availabilty validation
+2019-11-14 11:09:49,533  INFO [TestNG-tests-3] LogReport:109 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:09:49,533  INFO [TestNG-tests-3] LogReport:110 - product Description validation
+2019-11-14 11:09:50,354  INFO [TestNG-tests-3] LogReport:113 - Validation pass:iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. match
+2019-11-14 11:09:50,355  INFO [TestNG-tests-3] LogReport:127 - select product quantity
+2019-11-14 11:09:52,141  INFO [TestNG-tests-3] LogReport:131 - Product add to the cart
+2019-11-14 11:09:52,518  INFO [TestNG-tests-1] LogReport:105 - Validation pass:ViewingMens and ViewingMens match
+2019-11-14 11:09:52,520  INFO [TestNG-tests-1] LogReport:107 - Viewing Mens is succefully validate
+2019-11-14 11:09:52,520  INFO [TestNG-tests-1] LogReport:84 - Shirt is selected
+2019-11-14 11:09:53,087  INFO [TestNG-tests-4] LogReport:45 - Homepage is invoking
+2019-11-14 11:09:53,288  INFO [TestNG-tests-4] LogReport:46 - Page Redirection Validation pass:The Ninja Store and The Ninja Store match
+2019-11-14 11:09:53,289  INFO [TestNG-tests-4] LogReport:47 - HomePage validate successfull
+2019-11-14 11:09:53,651  INFO [TestNG-tests-4] LogReport:83 - Searching for iPhone and validating the product details
+2019-11-14 11:09:53,652  INFO [TestNG-tests-4] LogReport:84 - Searching the iPhone
+2019-11-14 11:09:54,701  INFO [TestNG-tests-1] LogReport:86 - Shirt colour is selected
+2019-11-14 11:09:56,199  INFO [TestNG-tests-2] LogReport:58 - Hearder is traverse
+2019-11-14 11:09:56,605  INFO [TestNG-tests-3] LogReport:83 - Searching for MacBook Air and validating the product details
+2019-11-14 11:09:56,609  INFO [TestNG-tests-3] LogReport:84 - Searching the MacBook Air
+2019-11-14 11:09:56,830  INFO [TestNG-tests-1] LogReport:88 - Shirt size is selected
+2019-11-14 11:09:58,551  INFO [TestNG-tests-1] LogReport:90 - Shirt personalized message is given
+2019-11-14 11:09:58,891  INFO [TestNG-tests-2] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces match
+2019-11-14 11:09:59,545  INFO [TestNG-tests-1] LogReport:93 - buy now is clicked
+2019-11-14 11:10:00,302  INFO [TestNG-tests-2] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Broadleaf Commerce Demo Store - Heat Clinic - Merchandise match
+2019-11-14 11:10:03,039  INFO [TestNG-tests-5] LogReport:92 - iPhone searching successfully
+2019-11-14 11:10:03,040  INFO [TestNG-tests-5] LogReport:93 - product name validation
+2019-11-14 11:10:03,745  INFO [TestNG-tests-2] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Broadleaf Commerce Demo Store - Heat Clinic - Clearance match
+2019-11-14 11:10:05,317  INFO [TestNG-tests-1] LogReport:97 - view cart is clicked
+2019-11-14 11:10:07,015  INFO [TestNG-tests-5] LogReport:96 - Validation pass:iPhone and iPhone match
+2019-11-14 11:10:07,016  INFO [TestNG-tests-5] LogReport:97 - product price validation
+2019-11-14 11:10:07,254  INFO [TestNG-tests-4] LogReport:92 - iPhone searching successfully
+2019-11-14 11:10:07,255  INFO [TestNG-tests-4] LogReport:93 - product name validation
+2019-11-14 11:10:07,464  INFO [TestNG-tests-1] LogReport:45 - Validation pass:Hawt Like a Habanero Shirt (Men's) and Hawt Like a Habanero Shirt (Men's) match
+2019-11-14 11:10:07,926  INFO [TestNG-tests-4] LogReport:96 - Validation pass:iPhone and iPhone match
+2019-11-14 11:10:07,927  INFO [TestNG-tests-4] LogReport:97 - product price validation
+2019-11-14 11:10:08,363  INFO [TestNG-tests-4] LogReport:99 - Validation pass:$123.20 and $123.20 match
+2019-11-14 11:10:08,363  INFO [TestNG-tests-4] LogReport:101 - product ex-tax validation
+2019-11-14 11:10:08,423  INFO [TestNG-tests-2] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce match
+2019-11-14 11:10:08,542  INFO [TestNG-tests-4] LogReport:103 - Validation pass:Ex Tax: $101.00 and Ex Tax: $101.00 match
+2019-11-14 11:10:08,543  INFO [TestNG-tests-4] LogReport:106 - product availabilty validation
+2019-11-14 11:10:08,551  INFO [TestNG-tests-1] LogReport:49 - Validation pass:Shirt Size: M and Shirt Size: M match
+2019-11-14 11:10:08,688  INFO [TestNG-tests-4] LogReport:109 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:10:08,688  INFO [TestNG-tests-4] LogReport:110 - product Description validation
+2019-11-14 11:10:08,940  INFO [TestNG-tests-4] LogReport:113 - Validation pass:iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. match
+2019-11-14 11:10:08,941  INFO [TestNG-tests-4] LogReport:127 - select product quantity
+2019-11-14 11:10:09,525  INFO [TestNG-tests-1] LogReport:53 - Validation pass:Shirt Color: Red and Shirt Color: Red match
+2019-11-14 11:10:09,814  INFO [TestNG-tests-4] LogReport:131 - Product add to the cart
+2019-11-14 11:10:10,511  INFO [TestNG-tests-2] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Broadleaf Commerce Demo Store - Heat Clinic - FAQ match
+2019-11-14 11:10:10,548  INFO [TestNG-tests-1] LogReport:57 - Validation pass:Personalized Name: arjun and Personalized Name: arjun match
+2019-11-14 11:10:10,549  INFO [TestNG-tests-1] LogReport:119 - total price validation
+2019-11-14 11:10:11,521  INFO [TestNG-tests-1] LogReport:123 - Validation pass:$14.99 and $14.99 match
+2019-11-14 11:10:11,522  INFO [TestNG-tests-1] LogReport:124 - Update the quatity
+2019-11-14 11:10:13,128  INFO [TestNG-tests-4] LogReport:83 - Searching for MacBook Air and validating the product details
+2019-11-14 11:10:13,129  INFO [TestNG-tests-4] LogReport:84 - Searching the MacBook Air
+2019-11-14 11:10:13,246  INFO [TestNG-tests-2] LogReport:105 - Validation pass:ViewingMens and ViewingMens match
+2019-11-14 11:10:13,247  INFO [TestNG-tests-2] LogReport:107 - Viewing Mens is succefully validate
+2019-11-14 11:10:13,247  INFO [TestNG-tests-2] LogReport:84 - Shirt is selected
+2019-11-14 11:10:13,539  INFO [TestNG-tests-5] LogReport:99 - Validation pass:$123.20 and $123.20 match
+2019-11-14 11:10:13,540  INFO [TestNG-tests-5] LogReport:101 - product ex-tax validation
+2019-11-14 11:10:14,068  INFO [TestNG-tests-2] LogReport:86 - Shirt colour is selected
+2019-11-14 11:10:14,558  INFO [TestNG-tests-2] LogReport:88 - Shirt size is selected
+2019-11-14 11:10:14,892  INFO [TestNG-tests-5] LogReport:103 - Validation pass:Ex Tax: $101.00 and Ex Tax: $101.00 match
+2019-11-14 11:10:14,892  INFO [TestNG-tests-5] LogReport:106 - product availabilty validation
+2019-11-14 11:10:14,985  INFO [TestNG-tests-2] LogReport:90 - Shirt personalized message is given
+2019-11-14 11:10:15,204  INFO [TestNG-tests-2] LogReport:93 - buy now is clicked
+2019-11-14 11:10:16,445  INFO [TestNG-tests-2] LogReport:97 - view cart is clicked
+2019-11-14 11:10:16,777  INFO [TestNG-tests-2] LogReport:45 - Validation pass:Hawt Like a Habanero Shirt (Men's) and Hawt Like a Habanero Shirt (Men's) match
+2019-11-14 11:10:16,907  INFO [TestNG-tests-2] LogReport:49 - Validation pass:Shirt Size: M and Shirt Size: M match
+2019-11-14 11:10:17,000  INFO [TestNG-tests-2] LogReport:53 - Validation pass:Shirt Color: Red and Shirt Color: Red match
+2019-11-14 11:10:17,098  INFO [TestNG-tests-2] LogReport:57 - Validation pass:Personalized Name: arjun and Personalized Name: arjun match
+2019-11-14 11:10:17,099  INFO [TestNG-tests-2] LogReport:119 - total price validation
+2019-11-14 11:10:17,207  INFO [TestNG-tests-2] LogReport:123 - Validation pass:$14.99 and $14.99 match
+2019-11-14 11:10:17,207  INFO [TestNG-tests-2] LogReport:124 - Update the quatity
+2019-11-14 11:10:17,371  INFO [TestNG-tests-4] LogReport:92 - MacBook Air searching successfully
+2019-11-14 11:10:17,371  INFO [TestNG-tests-4] LogReport:93 - product name validation
+2019-11-14 11:10:17,660  INFO [TestNG-tests-4] LogReport:96 - Validation pass:MacBook Air and MacBook Air match
+2019-11-14 11:10:17,661  INFO [TestNG-tests-4] LogReport:97 - product price validation
+2019-11-14 11:10:17,720  INFO [TestNG-tests-1] LogReport:134 - Validation pass:$44.97 and $44.97 match
+2019-11-14 11:10:17,765  INFO [TestNG-tests-4] LogReport:99 - Validation pass:$1,202.00 and $1,202.00 match
+2019-11-14 11:10:17,765  INFO [TestNG-tests-4] LogReport:101 - product ex-tax validation
+2019-11-14 11:10:17,825  INFO [TestNG-tests-5] LogReport:109 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:10:17,826  INFO [TestNG-tests-5] LogReport:110 - product Description validation
+2019-11-14 11:10:17,892  INFO [TestNG-tests-4] LogReport:103 - Validation pass:Ex Tax: $1,000.00 and Ex Tax: $1,000.00 match
+2019-11-14 11:10:17,893  INFO [TestNG-tests-4] LogReport:115 - product availabilty validation
+2019-11-14 11:10:17,960  INFO [TestNG-tests-4] LogReport:119 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:10:17,960  INFO [TestNG-tests-4] LogReport:120 - product Description validation
+2019-11-14 11:10:18,046  INFO [TestNG-tests-4] LogReport:124 - Validation pass:MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. match
+2019-11-14 11:10:18,047  INFO [TestNG-tests-4] LogReport:127 - select product quantity
+2019-11-14 11:10:18,332  INFO [TestNG-tests-4] LogReport:131 - Product add to the cart
+2019-11-14 11:10:19,474  INFO [TestNG-tests-5] LogReport:113 - Validation pass:iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. match
+2019-11-14 11:10:19,475  INFO [TestNG-tests-5] LogReport:127 - select product quantity
+2019-11-14 11:10:20,999  INFO [TestNG-tests-2] LogReport:134 - Validation pass:$44.97 and $44.97 match
+2019-11-14 11:10:21,264  INFO [TestNG-tests-4] LogReport:66 - Grand total before updating the quantity
+2019-11-14 11:10:21,498  INFO [TestNG-tests-4] LogReport:69 - Validation pass:$3,852.40 and $3,852.40 match
+2019-11-14 11:10:22,941  INFO [TestNG-tests-5] LogReport:131 - Product add to the cart
+2019-11-14 11:10:23,361  INFO [TestNG-tests-4] LogReport:76 - Grand total after quantity updation
+2019-11-14 11:10:23,362  INFO [TestNG-tests-4] LogReport:77 - Validation pass:$2,650.40 and $2,650.40 match
+2019-11-14 11:10:23,938  INFO [TestNG-tests-3] LogReport:92 - MacBook Air searching successfully
+2019-11-14 11:10:23,939  INFO [TestNG-tests-3] LogReport:93 - product name validation
+2019-11-14 11:10:24,067  INFO [TestNG-tests-3] LogReport:96 - Validation pass:MacBook Air and MacBook Air match
+2019-11-14 11:10:24,067  INFO [TestNG-tests-3] LogReport:97 - product price validation
+2019-11-14 11:10:24,179  INFO [TestNG-tests-3] LogReport:99 - Validation pass:$1,202.00 and $1,202.00 match
+2019-11-14 11:10:24,180  INFO [TestNG-tests-3] LogReport:101 - product ex-tax validation
+2019-11-14 11:10:24,331  INFO [TestNG-tests-3] LogReport:103 - Validation pass:Ex Tax: $1,000.00 and Ex Tax: $1,000.00 match
+2019-11-14 11:10:24,332  INFO [TestNG-tests-3] LogReport:115 - product availabilty validation
+2019-11-14 11:10:24,437  INFO [TestNG-tests-3] LogReport:119 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:10:24,438  INFO [TestNG-tests-3] LogReport:120 - product Description validation
+2019-11-14 11:10:24,571  INFO [TestNG-tests-3] LogReport:124 - Validation pass:MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. match
+2019-11-14 11:10:24,572  INFO [TestNG-tests-3] LogReport:127 - select product quantity
+2019-11-14 11:10:25,079  INFO [TestNG-tests-3] LogReport:131 - Product add to the cart
+2019-11-14 11:10:27,654  INFO [TestNG-tests-3] LogReport:66 - Grand total before updating the quantity
+2019-11-14 11:10:27,952  INFO [TestNG-tests-3] LogReport:69 - Validation pass:$3,852.40 and $3,852.40 match
+2019-11-14 11:10:29,535  INFO [TestNG-tests-5] LogReport:83 - Searching for MacBook Air and validating the product details
+2019-11-14 11:10:29,537  INFO [TestNG-tests-5] LogReport:84 - Searching the MacBook Air
+2019-11-14 11:10:30,041  INFO [TestNG-tests-3] LogReport:76 - Grand total after quantity updation
+2019-11-14 11:10:30,042  INFO [TestNG-tests-3] LogReport:77 - Validation pass:$2,650.40 and $2,650.40 match
+2019-11-14 11:10:36,984  INFO [TestNG-tests-5] LogReport:92 - MacBook Air searching successfully
+2019-11-14 11:10:36,985  INFO [TestNG-tests-5] LogReport:93 - product name validation
+2019-11-14 11:10:37,332  INFO [TestNG-tests-5] LogReport:96 - Validation pass:MacBook Air and MacBook Air match
+2019-11-14 11:10:37,332  INFO [TestNG-tests-5] LogReport:97 - product price validation
+2019-11-14 11:10:37,758  INFO [TestNG-tests-5] LogReport:99 - Validation pass:$1,202.00 and $1,202.00 match
+2019-11-14 11:10:37,759  INFO [TestNG-tests-5] LogReport:101 - product ex-tax validation
+2019-11-14 11:10:38,126  INFO [TestNG-tests-5] LogReport:103 - Validation pass:Ex Tax: $1,000.00 and Ex Tax: $1,000.00 match
+2019-11-14 11:10:38,126  INFO [TestNG-tests-5] LogReport:115 - product availabilty validation
+2019-11-14 11:10:38,500  INFO [TestNG-tests-5] LogReport:119 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:10:38,500  INFO [TestNG-tests-5] LogReport:120 - product Description validation
+2019-11-14 11:10:38,843  INFO [TestNG-tests-5] LogReport:124 - Validation pass:MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. match
+2019-11-14 11:10:38,843  INFO [TestNG-tests-5] LogReport:127 - select product quantity
+2019-11-14 11:10:40,172  INFO [TestNG-tests-5] LogReport:131 - Product add to the cart
+2019-11-14 11:10:44,894  INFO [TestNG-tests-5] LogReport:66 - Grand total before updating the quantity
+2019-11-14 11:10:45,414  INFO [TestNG-tests-5] LogReport:69 - Validation pass:$3,852.40 and $3,852.40 match
+2019-11-14 11:10:49,485  INFO [TestNG-tests-5] LogReport:76 - Grand total after quantity updation
+2019-11-14 11:10:49,485  INFO [TestNG-tests-5] LogReport:77 - Validation pass:$2,650.40 and $2,650.40 match
+2019-11-14 11:15:23,620  INFO [TestNG-tests-6] LogReport:45 - Homepage is invoking
+2019-11-14 11:15:23,690  INFO [TestNG-tests-6] LogReport:46 - Page Redirection Validation pass:The Ninja Store and The Ninja Store match
+2019-11-14 11:15:23,691  INFO [TestNG-tests-6] LogReport:47 - HomePage validate successfull
+2019-11-14 11:15:24,429  INFO [TestNG-tests-6] LogReport:83 - Searching for iPhone and validating the product details
+2019-11-14 11:15:24,430  INFO [TestNG-tests-6] LogReport:84 - Searching the iPhone
+2019-11-14 11:15:25,927  INFO [TestNG-tests-1] LogReport:58 - Hearder is traverse
+2019-11-14 11:15:30,702  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces match
+2019-11-14 11:15:32,550  INFO [TestNG-tests-3] LogReport:58 - Hearder is traverse
+2019-11-14 11:15:33,095  INFO [TestNG-tests-4] LogReport:45 - Homepage is invoking
+2019-11-14 11:15:34,105  INFO [TestNG-tests-4] LogReport:46 - Page Redirection Validation pass:The Ninja Store and The Ninja Store match
+2019-11-14 11:15:34,106  INFO [TestNG-tests-4] LogReport:47 - HomePage validate successfull
+2019-11-14 11:15:34,729  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Broadleaf Commerce Demo Store - Heat Clinic - Merchandise match
+2019-11-14 11:15:34,994  INFO [TestNG-tests-4] LogReport:83 - Searching for iPhone and validating the product details
+2019-11-14 11:15:34,994  INFO [TestNG-tests-4] LogReport:84 - Searching the iPhone
+2019-11-14 11:15:39,280  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Broadleaf Commerce Demo Store - Heat Clinic - Clearance match
+2019-11-14 11:15:42,199  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce match
+2019-11-14 11:15:42,602  INFO [TestNG-tests-5] LogReport:45 - Homepage is invoking
+2019-11-14 11:15:42,625  INFO [TestNG-tests-5] LogReport:46 - Page Redirection Validation pass:The Ninja Store and The Ninja Store match
+2019-11-14 11:15:42,626  INFO [TestNG-tests-5] LogReport:47 - HomePage validate successfull
+2019-11-14 11:15:43,049  INFO [TestNG-tests-5] LogReport:83 - Searching for iPhone and validating the product details
+2019-11-14 11:15:43,057  INFO [TestNG-tests-5] LogReport:84 - Searching the iPhone
+2019-11-14 11:15:43,778  INFO [TestNG-tests-2] LogReport:58 - Hearder is traverse
+2019-11-14 11:15:45,525  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Broadleaf Commerce Demo Store - Heat Clinic - FAQ match
+2019-11-14 11:15:46,681  INFO [TestNG-tests-2] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces match
+2019-11-14 11:15:49,264  INFO [TestNG-tests-2] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Broadleaf Commerce Demo Store - Heat Clinic - Merchandise match
+2019-11-14 11:15:50,804  INFO [TestNG-tests-5] LogReport:92 - iPhone searching successfully
+2019-11-14 11:15:50,805  INFO [TestNG-tests-5] LogReport:93 - product name validation
+2019-11-14 11:15:51,400  INFO [TestNG-tests-5] LogReport:96 - Validation pass:iPhone and iPhone match
+2019-11-14 11:15:51,401  INFO [TestNG-tests-5] LogReport:97 - product price validation
+2019-11-14 11:15:51,606  INFO [TestNG-tests-2] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Broadleaf Commerce Demo Store - Heat Clinic - Clearance match
+2019-11-14 11:15:51,709  INFO [TestNG-tests-5] LogReport:99 - Validation pass:$123.20 and $123.20 match
+2019-11-14 11:15:51,710  INFO [TestNG-tests-5] LogReport:101 - product ex-tax validation
+2019-11-14 11:15:51,863  INFO [TestNG-tests-5] LogReport:103 - Validation pass:Ex Tax: $101.00 and Ex Tax: $101.00 match
+2019-11-14 11:15:52,194  INFO [TestNG-tests-5] LogReport:106 - product availabilty validation
+2019-11-14 11:15:52,564  INFO [TestNG-tests-5] LogReport:109 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:15:52,565  INFO [TestNG-tests-5] LogReport:110 - product Description validation
+2019-11-14 11:15:52,700  INFO [TestNG-tests-5] LogReport:113 - Validation pass:iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. match
+2019-11-14 11:15:52,700  INFO [TestNG-tests-5] LogReport:127 - select product quantity
+2019-11-14 11:15:53,214  INFO [TestNG-tests-2] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce match
+2019-11-14 11:15:53,307  INFO [TestNG-tests-5] LogReport:131 - Product add to the cart
+2019-11-14 11:15:53,489  INFO [TestNG-tests-1] LogReport:105 - Validation pass:ViewingMens and ViewingMens match
+2019-11-14 11:15:53,490  INFO [TestNG-tests-1] LogReport:107 - Viewing Mens is succefully validate
+2019-11-14 11:15:53,490  INFO [TestNG-tests-1] LogReport:84 - Shirt is selected
+2019-11-14 11:15:54,856  INFO [TestNG-tests-2] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Broadleaf Commerce Demo Store - Heat Clinic - FAQ match
+2019-11-14 11:15:56,495  INFO [TestNG-tests-5] LogReport:83 - Searching for MacBook Air and validating the product details
+2019-11-14 11:15:56,496  INFO [TestNG-tests-5] LogReport:84 - Searching the MacBook Air
+2019-11-14 11:15:56,652  INFO [TestNG-tests-1] LogReport:86 - Shirt colour is selected
+2019-11-14 11:15:57,165  INFO [TestNG-tests-3] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces match
+2019-11-14 11:15:59,048  INFO [TestNG-tests-1] LogReport:88 - Shirt size is selected
+2019-11-14 11:15:59,725  INFO [TestNG-tests-2] LogReport:105 - Validation pass:ViewingMens and ViewingMens match
+2019-11-14 11:15:59,726  INFO [TestNG-tests-2] LogReport:107 - Viewing Mens is succefully validate
+2019-11-14 11:15:59,726  INFO [TestNG-tests-2] LogReport:84 - Shirt is selected
+2019-11-14 11:15:59,727  INFO [TestNG-tests-1] LogReport:90 - Shirt personalized message is given
+2019-11-14 11:16:00,411  INFO [TestNG-tests-2] LogReport:86 - Shirt colour is selected
+2019-11-14 11:16:00,468  INFO [TestNG-tests-1] LogReport:93 - buy now is clicked
+2019-11-14 11:16:00,819  INFO [TestNG-tests-2] LogReport:88 - Shirt size is selected
+2019-11-14 11:16:01,298  INFO [TestNG-tests-2] LogReport:90 - Shirt personalized message is given
+2019-11-14 11:16:01,572  INFO [TestNG-tests-2] LogReport:93 - buy now is clicked
+2019-11-14 11:16:01,631  INFO [TestNG-tests-5] LogReport:92 - MacBook Air searching successfully
+2019-11-14 11:16:01,632  INFO [TestNG-tests-5] LogReport:93 - product name validation
+2019-11-14 11:16:02,062  INFO [TestNG-tests-5] LogReport:96 - Validation pass:MacBook Air and MacBook Air match
+2019-11-14 11:16:02,062  INFO [TestNG-tests-5] LogReport:97 - product price validation
+2019-11-14 11:16:02,215  INFO [TestNG-tests-5] LogReport:99 - Validation pass:$1,202.00 and $1,202.00 match
+2019-11-14 11:16:02,216  INFO [TestNG-tests-5] LogReport:101 - product ex-tax validation
+2019-11-14 11:16:02,344  INFO [TestNG-tests-5] LogReport:103 - Validation pass:Ex Tax: $1,000.00 and Ex Tax: $1,000.00 match
+2019-11-14 11:16:02,344  INFO [TestNG-tests-5] LogReport:115 - product availabilty validation
+2019-11-14 11:16:02,425  INFO [TestNG-tests-5] LogReport:119 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:16:02,425  INFO [TestNG-tests-5] LogReport:120 - product Description validation
+2019-11-14 11:16:02,549  INFO [TestNG-tests-5] LogReport:124 - Validation pass:MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. match
+2019-11-14 11:16:02,550  INFO [TestNG-tests-5] LogReport:127 - select product quantity
+2019-11-14 11:16:02,834  INFO [TestNG-tests-5] LogReport:131 - Product add to the cart
+2019-11-14 11:16:03,308  INFO [TestNG-tests-2] LogReport:97 - view cart is clicked
+2019-11-14 11:16:03,504  INFO [TestNG-tests-2] LogReport:45 - Validation pass:Hawt Like a Habanero Shirt (Men's) and Hawt Like a Habanero Shirt (Men's) match
+2019-11-14 11:16:03,614  INFO [TestNG-tests-2] LogReport:49 - Validation pass:Shirt Size: M and Shirt Size: M match
+2019-11-14 11:16:03,765  INFO [TestNG-tests-2] LogReport:53 - Validation pass:Shirt Color: Red and Shirt Color: Red match
+2019-11-14 11:16:03,870  INFO [TestNG-tests-2] LogReport:57 - Validation pass:Personalized Name: arjun and Personalized Name: arjun match
+2019-11-14 11:16:03,871  INFO [TestNG-tests-2] LogReport:119 - total price validation
+2019-11-14 11:16:03,974  INFO [TestNG-tests-2] LogReport:123 - Validation pass:$14.99 and $14.99 match
+2019-11-14 11:16:03,975  INFO [TestNG-tests-2] LogReport:124 - Update the quatity
+2019-11-14 11:16:05,978  INFO [TestNG-tests-6] LogReport:92 - iPhone searching successfully
+2019-11-14 11:16:05,978  INFO [TestNG-tests-6] LogReport:93 - product name validation
+2019-11-14 11:16:05,992  INFO [TestNG-tests-5] LogReport:66 - Grand total before updating the quantity
+2019-11-14 11:16:06,209  INFO [TestNG-tests-5] LogReport:69 - Validation pass:$3,852.40 and $3,852.40 match
+2019-11-14 11:16:06,304  INFO [TestNG-tests-1] LogReport:97 - view cart is clicked
+2019-11-14 11:16:06,733  INFO [TestNG-tests-1] LogReport:45 - Validation pass:Hawt Like a Habanero Shirt (Men's) and Hawt Like a Habanero Shirt (Men's) match
+2019-11-14 11:16:06,892  INFO [TestNG-tests-1] LogReport:49 - Validation pass:Shirt Size: M and Shirt Size: M match
+2019-11-14 11:16:07,034  INFO [TestNG-tests-1] LogReport:53 - Validation pass:Shirt Color: Red and Shirt Color: Red match
+2019-11-14 11:16:07,233  INFO [TestNG-tests-1] LogReport:57 - Validation pass:Personalized Name: arjun and Personalized Name: arjun match
+2019-11-14 11:16:07,233  INFO [TestNG-tests-1] LogReport:119 - total price validation
+2019-11-14 11:16:07,369  INFO [TestNG-tests-1] LogReport:123 - Validation pass:$14.99 and $14.99 match
+2019-11-14 11:16:07,370  INFO [TestNG-tests-1] LogReport:124 - Update the quatity
+2019-11-14 11:16:07,866  INFO [TestNG-tests-2] LogReport:134 - Validation pass:$44.97 and $44.97 match
+2019-11-14 11:16:08,076  INFO [TestNG-tests-5] LogReport:76 - Grand total after quantity updation
+2019-11-14 11:16:08,076  INFO [TestNG-tests-5] LogReport:77 - Validation pass:$2,650.40 and $2,650.40 match
+2019-11-14 11:16:10,954  INFO [TestNG-tests-3] LogReport:105 - Validation pass:ViewingMens and ViewingMens match
+2019-11-14 11:16:10,955  INFO [TestNG-tests-3] LogReport:107 - Viewing Mens is succefully validate
+2019-11-14 11:16:10,955  INFO [TestNG-tests-3] LogReport:84 - Shirt is selected
+2019-11-14 11:16:11,582  INFO [TestNG-tests-6] LogReport:66 - Grand total before updating the quantity
+2019-11-14 11:16:11,957  INFO [TestNG-tests-1] LogReport:134 - Validation pass:$44.97 and $44.97 match
+2019-11-14 11:16:12,215  INFO [TestNG-tests-3] LogReport:86 - Shirt colour is selected
+2019-11-14 11:16:13,628  INFO [TestNG-tests-4] LogReport:92 - iPhone searching successfully
+2019-11-14 11:16:13,628  INFO [TestNG-tests-4] LogReport:93 - product name validation
+2019-11-14 11:16:13,903  INFO [TestNG-tests-3] LogReport:88 - Shirt size is selected
+2019-11-14 11:16:13,925  INFO [TestNG-tests-4] LogReport:96 - Validation pass:iPhone and iPhone match
+2019-11-14 11:16:13,925  INFO [TestNG-tests-4] LogReport:97 - product price validation
+2019-11-14 11:16:14,049  INFO [TestNG-tests-4] LogReport:99 - Validation pass:$123.20 and $123.20 match
+2019-11-14 11:16:14,050  INFO [TestNG-tests-4] LogReport:101 - product ex-tax validation
+2019-11-14 11:16:14,193  INFO [TestNG-tests-4] LogReport:103 - Validation pass:Ex Tax: $101.00 and Ex Tax: $101.00 match
+2019-11-14 11:16:14,194  INFO [TestNG-tests-4] LogReport:106 - product availabilty validation
+2019-11-14 11:16:14,303  INFO [TestNG-tests-4] LogReport:109 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:16:14,304  INFO [TestNG-tests-4] LogReport:110 - product Description validation
+2019-11-14 11:16:14,436  INFO [TestNG-tests-4] LogReport:113 - Validation pass:iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. match
+2019-11-14 11:16:14,437  INFO [TestNG-tests-4] LogReport:127 - select product quantity
+2019-11-14 11:16:15,092  INFO [TestNG-tests-4] LogReport:131 - Product add to the cart
+2019-11-14 11:16:15,274  INFO [TestNG-tests-3] LogReport:90 - Shirt personalized message is given
+2019-11-14 11:16:16,465  INFO [TestNG-tests-3] LogReport:93 - buy now is clicked
+2019-11-14 11:16:16,974  INFO [TestNG-tests-4] LogReport:83 - Searching for MacBook Air and validating the product details
+2019-11-14 11:16:16,974  INFO [TestNG-tests-4] LogReport:84 - Searching the MacBook Air
+2019-11-14 11:16:22,071  INFO [TestNG-tests-3] LogReport:97 - view cart is clicked
+2019-11-14 11:16:22,416  INFO [TestNG-tests-4] LogReport:92 - MacBook Air searching successfully
+2019-11-14 11:16:22,417  INFO [TestNG-tests-4] LogReport:93 - product name validation
+2019-11-14 11:16:22,498  INFO [TestNG-tests-4] LogReport:96 - Validation pass:MacBook Air and MacBook Air match
+2019-11-14 11:16:22,499  INFO [TestNG-tests-4] LogReport:97 - product price validation
+2019-11-14 11:16:22,599  INFO [TestNG-tests-4] LogReport:99 - Validation pass:$1,202.00 and $1,202.00 match
+2019-11-14 11:16:22,600  INFO [TestNG-tests-4] LogReport:101 - product ex-tax validation
+2019-11-14 11:16:22,705  INFO [TestNG-tests-4] LogReport:103 - Validation pass:Ex Tax: $1,000.00 and Ex Tax: $1,000.00 match
+2019-11-14 11:16:22,705  INFO [TestNG-tests-4] LogReport:115 - product availabilty validation
+2019-11-14 11:16:22,927  INFO [TestNG-tests-4] LogReport:119 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:16:22,928  INFO [TestNG-tests-4] LogReport:120 - product Description validation
+2019-11-14 11:16:24,052  INFO [TestNG-tests-4] LogReport:124 - Validation pass:MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. match
+2019-11-14 11:16:24,052  INFO [TestNG-tests-4] LogReport:127 - select product quantity
+2019-11-14 11:16:24,440  INFO [TestNG-tests-4] LogReport:131 - Product add to the cart
+2019-11-14 11:16:26,609  INFO [TestNG-tests-4] LogReport:66 - Grand total before updating the quantity
+2019-11-14 11:16:26,802  INFO [TestNG-tests-4] LogReport:69 - Validation pass:$3,852.40 and $3,852.40 match
+2019-11-14 11:16:28,510  INFO [TestNG-tests-4] LogReport:76 - Grand total after quantity updation
+2019-11-14 11:16:28,511  INFO [TestNG-tests-4] LogReport:77 - Validation pass:$2,650.40 and $2,650.40 match
+2019-11-14 11:18:56,594  INFO [TestNG-tests-2] LogReport:45 - Homepage is invoking
+2019-11-14 11:18:56,638  INFO [TestNG-tests-2] LogReport:46 - Page Redirection Validation pass:The Ninja Store and The Ninja Store match
+2019-11-14 11:18:56,639  INFO [TestNG-tests-2] LogReport:47 - HomePage validate successfull
+2019-11-14 11:18:56,782  INFO [TestNG-tests-1] LogReport:58 - Hearder is traverse
+2019-11-14 11:18:57,266  INFO [TestNG-tests-2] LogReport:83 - Searching for iPhone and validating the product details
+2019-11-14 11:18:57,266  INFO [TestNG-tests-2] LogReport:84 - Searching the iPhone
+2019-11-14 11:19:00,330  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces match
+2019-11-14 11:19:04,368  INFO [TestNG-tests-2] LogReport:92 - iPhone searching successfully
+2019-11-14 11:19:04,368  INFO [TestNG-tests-2] LogReport:93 - product name validation
+2019-11-14 11:19:04,966  INFO [TestNG-tests-2] LogReport:96 - Validation pass:iPhone and iPhone match
+2019-11-14 11:19:04,966  INFO [TestNG-tests-2] LogReport:97 - product price validation
+2019-11-14 11:19:05,294  INFO [TestNG-tests-1] LogReport:105 - Validation pass:ViewingMens and ViewingMens match
+2019-11-14 11:19:05,294  INFO [TestNG-tests-1] LogReport:107 - Viewing Mens is succefully validate
+2019-11-14 11:19:05,294  INFO [TestNG-tests-1] LogReport:84 - Shirt is selected
+2019-11-14 11:19:05,435  INFO [TestNG-tests-2] LogReport:99 - Validation pass:$123.20 and $123.20 match
+2019-11-14 11:19:05,435  INFO [TestNG-tests-2] LogReport:101 - product ex-tax validation
+2019-11-14 11:19:06,090  INFO [TestNG-tests-2] LogReport:103 - Validation pass:Ex Tax: $101.00 and Ex Tax: $101.00 match
+2019-11-14 11:19:06,090  INFO [TestNG-tests-2] LogReport:106 - product availabilty validation
+2019-11-14 11:19:06,564  INFO [TestNG-tests-2] LogReport:109 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:19:06,564  INFO [TestNG-tests-2] LogReport:110 - product Description validation
+2019-11-14 11:19:06,655  INFO [TestNG-tests-1] LogReport:86 - Shirt colour is selected
+2019-11-14 11:19:06,968  INFO [TestNG-tests-2] LogReport:113 - Validation pass:iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. match
+2019-11-14 11:19:06,968  INFO [TestNG-tests-2] LogReport:127 - select product quantity
+2019-11-14 11:19:07,550  INFO [TestNG-tests-1] LogReport:88 - Shirt size is selected
+2019-11-14 11:19:08,566  INFO [TestNG-tests-1] LogReport:90 - Shirt personalized message is given
+2019-11-14 11:19:08,566  INFO [TestNG-tests-2] LogReport:131 - Product add to the cart
+2019-11-14 11:19:09,352  INFO [TestNG-tests-1] LogReport:93 - buy now is clicked
+2019-11-14 11:19:12,059  INFO [TestNG-tests-2] LogReport:83 - Searching for MacBook Air and validating the product details
+2019-11-14 11:19:12,075  INFO [TestNG-tests-2] LogReport:84 - Searching the MacBook Air
+2019-11-14 11:19:12,153  INFO [TestNG-tests-1] LogReport:97 - view cart is clicked
+2019-11-14 11:19:12,943  INFO [TestNG-tests-1] LogReport:45 - Validation pass:Hawt Like a Habanero Shirt (Men's) and Hawt Like a Habanero Shirt (Men's) match
+2019-11-14 11:19:13,381  INFO [TestNG-tests-1] LogReport:49 - Validation pass:Shirt Size: M and Shirt Size: M match
+2019-11-14 11:19:14,194  INFO [TestNG-tests-1] LogReport:53 - Validation pass:Shirt Color: Red and Shirt Color: Red match
+2019-11-14 11:19:14,684  INFO [TestNG-tests-1] LogReport:57 - Validation pass:Personalized Name: arjun and Personalized Name: arjun match
+2019-11-14 11:19:14,684  INFO [TestNG-tests-1] LogReport:119 - total price validation
+2019-11-14 11:19:15,105  INFO [TestNG-tests-1] LogReport:123 - Validation pass:$14.99 and $14.99 match
+2019-11-14 11:19:15,120  INFO [TestNG-tests-1] LogReport:124 - Update the quatity
+2019-11-14 11:19:18,510  INFO [TestNG-tests-2] LogReport:92 - MacBook Air searching successfully
+2019-11-14 11:19:18,510  INFO [TestNG-tests-2] LogReport:93 - product name validation
+2019-11-14 11:19:18,788  INFO [TestNG-tests-2] LogReport:96 - Validation pass:MacBook Air and MacBook Air match
+2019-11-14 11:19:18,788  INFO [TestNG-tests-2] LogReport:97 - product price validation
+2019-11-14 11:19:19,023  INFO [TestNG-tests-2] LogReport:99 - Validation pass:$1,202.00 and $1,202.00 match
+2019-11-14 11:19:19,023  INFO [TestNG-tests-2] LogReport:101 - product ex-tax validation
+2019-11-14 11:19:19,288  INFO [TestNG-tests-2] LogReport:103 - Validation pass:Ex Tax: $1,000.00 and Ex Tax: $1,000.00 match
+2019-11-14 11:19:19,288  INFO [TestNG-tests-2] LogReport:115 - product availabilty validation
+2019-11-14 11:19:19,523  INFO [TestNG-tests-2] LogReport:119 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 11:19:19,523  INFO [TestNG-tests-2] LogReport:120 - product Description validation
+2019-11-14 11:19:19,793  INFO [TestNG-tests-2] LogReport:124 - Validation pass:MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. match
+2019-11-14 11:19:19,793  INFO [TestNG-tests-2] LogReport:127 - select product quantity
+2019-11-14 11:19:20,324  INFO [TestNG-tests-1] LogReport:134 - Validation pass:$44.97 and $44.97 match
+2019-11-14 11:19:21,215  INFO [TestNG-tests-2] LogReport:131 - Product add to the cart
+2019-11-14 11:19:25,206  INFO [TestNG-tests-2] LogReport:66 - Grand total before updating the quantity
+2019-11-14 11:19:25,671  INFO [TestNG-tests-2] LogReport:69 - Validation pass:$3,852.40 and $3,852.40 match
+2019-11-14 11:19:28,702  INFO [TestNG-tests-2] LogReport:76 - Grand total after quantity updation
+2019-11-14 11:19:28,703  INFO [TestNG-tests-2] LogReport:77 - Validation pass:$2,650.40 and $2,650.40 match
+2019-11-14 15:59:44,439  INFO [TestNG-tests-2] LogReport:45 - Homepage is invoking
+2019-11-14 15:59:44,491  INFO [TestNG-tests-2] LogReport:46 - Page Redirection Validation pass:The Ninja Store and The Ninja Store match
+2019-11-14 15:59:44,492  INFO [TestNG-tests-2] LogReport:47 - HomePage validate successfull
+2019-11-14 15:59:44,973  INFO [TestNG-tests-2] LogReport:83 - Searching for iPhone and validating the product details
+2019-11-14 15:59:44,974  INFO [TestNG-tests-2] LogReport:84 - Searching the iPhone
+2019-11-14 15:59:51,008  INFO [TestNG-tests-1] LogReport:58 - Hearder is traverse
+2019-11-14 15:59:55,103  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces match
+2019-11-14 15:59:55,449  INFO [TestNG-tests-2] LogReport:92 - iPhone searching successfully
+2019-11-14 15:59:55,452  INFO [TestNG-tests-2] LogReport:93 - product name validation
+2019-11-14 15:59:56,096  INFO [TestNG-tests-2] LogReport:96 - Validation pass:iPhone and iPhone match
+2019-11-14 15:59:56,097  INFO [TestNG-tests-2] LogReport:97 - product price validation
+2019-11-14 15:59:57,076  INFO [TestNG-tests-2] LogReport:99 - Validation pass:$123.20 and $123.20 match
+2019-11-14 15:59:57,077  INFO [TestNG-tests-2] LogReport:101 - product ex-tax validation
+2019-11-14 15:59:57,741  INFO [TestNG-tests-2] LogReport:103 - Validation pass:Ex Tax: $101.00 and Ex Tax: $101.00 match
+2019-11-14 15:59:57,742  INFO [TestNG-tests-2] LogReport:106 - product availabilty validation
+2019-11-14 15:59:58,318  INFO [TestNG-tests-2] LogReport:109 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 15:59:58,320  INFO [TestNG-tests-2] LogReport:110 - product Description validation
+2019-11-14 15:59:59,130  INFO [TestNG-tests-2] LogReport:113 - Validation pass:iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. match
+2019-11-14 15:59:59,131  INFO [TestNG-tests-2] LogReport:127 - select product quantity
+2019-11-14 15:59:59,375  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Broadleaf Commerce Demo Store - Heat Clinic - Merchandise match
+2019-11-14 16:00:01,630  INFO [TestNG-tests-2] LogReport:131 - Product add to the cart
+2019-11-14 16:00:02,904  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Broadleaf Commerce Demo Store - Heat Clinic - Clearance match
+2019-11-14 16:00:07,462  INFO [TestNG-tests-2] LogReport:83 - Searching for MacBook Air and validating the product details
+2019-11-14 16:00:07,466  INFO [TestNG-tests-2] LogReport:84 - Searching the MacBook Air
+2019-11-14 16:00:07,656  INFO [TestNG-tests-1] LogReport:66 - Page Redirection Validation pass:Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce match
+2019-11-14 16:00:14,833  INFO [TestNG-tests-1] LogReport:105 - Validation pass:ViewingMens and ViewingMens match
+2019-11-14 16:00:14,834  INFO [TestNG-tests-1] LogReport:107 - Viewing Mens is succefully validate
+2019-11-14 16:00:14,834  INFO [TestNG-tests-1] LogReport:84 - Shirt is selected
+2019-11-14 16:00:15,554  INFO [TestNG-tests-2] LogReport:92 - MacBook Air searching successfully
+2019-11-14 16:00:15,555  INFO [TestNG-tests-2] LogReport:93 - product name validation
+2019-11-14 16:00:15,931  INFO [TestNG-tests-2] LogReport:96 - Validation pass:MacBook Air and MacBook Air match
+2019-11-14 16:00:15,932  INFO [TestNG-tests-2] LogReport:97 - product price validation
+2019-11-14 16:00:16,310  INFO [TestNG-tests-2] LogReport:99 - Validation pass:$1,202.00 and $1,202.00 match
+2019-11-14 16:00:16,310  INFO [TestNG-tests-2] LogReport:101 - product ex-tax validation
+2019-11-14 16:00:16,427  INFO [TestNG-tests-1] LogReport:86 - Shirt colour is selected
+2019-11-14 16:00:16,986  INFO [TestNG-tests-2] LogReport:103 - Validation pass:Ex Tax: $1,000.00 and Ex Tax: $1,000.00 match
+2019-11-14 16:00:16,987  INFO [TestNG-tests-2] LogReport:115 - product availabilty validation
+2019-11-14 16:00:17,354  INFO [TestNG-tests-2] LogReport:119 - Validation pass:Availability: In Stock and Availability: In Stock match
+2019-11-14 16:00:17,355  INFO [TestNG-tests-2] LogReport:120 - product Description validation
+2019-11-14 16:00:17,700  INFO [TestNG-tests-1] LogReport:88 - Shirt size is selected
+2019-11-14 16:00:17,774  INFO [TestNG-tests-2] LogReport:124 - Validation pass:MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. match
+2019-11-14 16:00:17,775  INFO [TestNG-tests-2] LogReport:127 - select product quantity
+2019-11-14 16:00:18,944  INFO [TestNG-tests-1] LogReport:90 - Shirt personalized message is given
+2019-11-14 16:00:19,445  INFO [TestNG-tests-2] LogReport:131 - Product add to the cart
+2019-11-14 16:00:20,026  INFO [TestNG-tests-1] LogReport:93 - buy now is clicked
+2019-11-14 16:00:23,597  INFO [TestNG-tests-1] LogReport:97 - view cart is clicked
+2019-11-14 16:00:24,484  INFO [TestNG-tests-1] LogReport:45 - Validation pass:Hawt Like a Habanero Shirt (Men's) and Hawt Like a Habanero Shirt (Men's) match
+2019-11-14 16:00:25,242  INFO [TestNG-tests-2] LogReport:66 - Grand total before updating the quantity
+2019-11-14 16:00:25,355  INFO [TestNG-tests-1] LogReport:49 - Validation pass:Shirt Size: M and Shirt Size: M match
+2019-11-14 16:00:25,871  INFO [TestNG-tests-1] LogReport:53 - Validation pass:Shirt Color: Red and Shirt Color: Red match
+2019-11-14 16:00:25,924  INFO [TestNG-tests-2] LogReport:69 - Validation pass:$3,852.40 and $3,852.40 match
+2019-11-14 16:00:26,488  INFO [TestNG-tests-1] LogReport:57 - Validation pass:Personalized Name: arjun and Personalized Name: arjun match
+2019-11-14 16:00:26,489  INFO [TestNG-tests-1] LogReport:119 - total price validation
+2019-11-14 16:00:26,995  INFO [TestNG-tests-1] LogReport:123 - Validation pass:$14.99 and $14.99 match
+2019-11-14 16:00:26,996  INFO [TestNG-tests-1] LogReport:124 - Update the quatity
+2019-11-14 16:00:30,940  INFO [TestNG-tests-2] LogReport:76 - Grand total after quantity updation
+2019-11-14 16:00:30,941  INFO [TestNG-tests-2] LogReport:77 - Validation pass:$2,650.40 and $2,650.40 match
+2019-11-14 16:00:33,296  INFO [TestNG-tests-1] LogReport:134 - Validation pass:$44.97 and $44.97 match

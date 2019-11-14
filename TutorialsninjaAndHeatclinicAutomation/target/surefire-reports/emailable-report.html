@@ -8,49 +8,11 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="7">tutorialsNinja</th></tr>
-<tr><td><a href="#t0">tutorialNinjaTest</a></td><td class="num">3</td><td class="num">0</td><td class="num">0</td><td class="num">48,274</td><td></td><td></td></tr>
-<tr><th colspan="7">heatClinic</th></tr>
-<tr class="stripe"><td><a href="#t1">heatClinicTest</a></td><td class="num">1</td><td class="num">0</td><td class="num attn">1</td><td class="num">70,701</td><td></td><td></td></tr>
 <tr><th colspan="7">tutorialsNinjaAndHeatClinic</th></tr>
-<tr><th>Total</th><th class="num">4</th><th class="num">0</th><th class="num attn">1</th><th class="num">118,975</th><th colspan="2"></th></tr>
+<tr><td><a href="#t0">parallelRun</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">65,219</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">tutorialsNinja</th></tr></tbody><tbody id="t0"><tr><th colspan="4">tutorialNinjaTest &#8212; passed</th></tr><tr class="passedeven"><td rowspan="3">com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation</td><td><a href="#m0">cartValidation</a></td><td rowspan="1">1573634739634</td><td rowspan="1">2886</td></tr><tr class="passedeven"><td><a href="#m1">tutorialsNinjaHomePageValidation</a></td><td rowspan="1">1573634705070</td><td rowspan="1">48</td></tr><tr class="passedeven"><td><a href="#m2">tutorialsNinjaProductValidation</a></td><td rowspan="1">1573634705121</td><td rowspan="1">34512</td></tr></tbody>
-<tbody><tr><th colspan="4">heatClinic</th></tr></tbody><tbody id="t1"><tr><th colspan="4">heatClinicTest &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting</td><td><a href="#m3">merchandiseFunctionality</a></td><td rowspan="1">1573634771660</td><td rowspan="1">53433</td></tr><tr><th colspan="4">heatClinicTest &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting</td><td><a href="#m4">headerRedirectionValidation</a></td><td rowspan="1">1573634766089</td><td rowspan="1">5521</td></tr></tbody>
-<tbody><tr><th colspan="4">tutorialsNinjaAndHeatClinic</th></tr></tbody></table>
-<h2>tutorialNinjaTest</h2><h3 id="m0">com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation#cartValidation</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation#tutorialsNinjaHomePageValidation</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.TutorialsNinjaFunctionalityValidation#tutorialsNinjaProductValidation</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h2>heatClinicTest</h2><h3 id="m3">com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting#merchandiseFunctionality</h3><table class="result"><tr class="param"><th>Parameter #1</th></tr><tr class="param stripe"><td>[TS-01, Hawt Like a Habanero Shirt (Men&apos;s), Shirt Size: M, Shirt Color: Red, Personalized Name: arjun, 3, $14.99, $44.97]</td></tr><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.cssSelector: table#cart_products&gt;tbody&gt;:nth-child(1)&gt;:nth-child(2)&gt;a (tried for 30 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.helper.Waits.waitPresenceOfElementLocated(Waits.java:110)
-	at com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.pages.HeatClinicValidation.addTheShirtToCart(HeatClinicValidation.java:98)
-	at com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting.merchandiseFunctionality(HeatClinicFuctionalityTesting.java:79)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;table#cart_products&gt;tbody&gt;:nth-child(1)&gt;:nth-child(2)&gt;a&quot;}
-  (Session info: chrome=78.0.3904.97)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;ATMECSINLT-087&apos;, ip: &apos;55.55.52.203&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\ARJUN~1.SAN\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:59544}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: d1a4784998ef9a06cb68893722811a51
-*** Element info: {Using=css selector, value=table#cart_products&gt;tbody&gt;:nth-child(1)&gt;:nth-child(2)&gt;a}
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:420)
-	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:182)
-	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:179)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	... 33 more
-... Removed 33 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m4">com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.testscripts.HeatClinicFuctionalityTesting#headerRedirectionValidation</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">tutorialsNinjaAndHeatClinic</th></tr></tbody><tbody id="t0"><tr><th colspan="4">parallelRun &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.base.DynamicXML</td><td><a href="#m0">xmlsuite</a></td><td rowspan="1">1573727369608</td><td rowspan="1">65173</td></tr></tbody>
+</table>
+<h2>parallelRun</h2><h3 id="m0">com.tutorialsninjaandheatclinic.TutorialsninjaAndHeatclinicAutomation.base.DynamicXML#xmlsuite</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

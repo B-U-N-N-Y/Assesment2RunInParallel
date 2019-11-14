@@ -72,7 +72,8 @@ public class TestBase {
 				driver = new FirefoxDriver();
 				// driver.get(url);
 			} else if (browser.equalsIgnoreCase("internet explorer")) {
-				WebDriverManager.iedriver().arch32().setup();
+				System.setProperty("webdriver.ie.driver", FileConstant.IE_PATH);
+			//	WebDriverManager.iedriver().arch32().setup();
 				DesiredCapabilities ieCaps = DesiredCapabilities.internetExplorer();
 				ieCaps.setCapability(InternetExplorerDriver.INITIAL_BROWSER_URL, "");
 				driver = new InternetExplorerDriver(ieCaps);

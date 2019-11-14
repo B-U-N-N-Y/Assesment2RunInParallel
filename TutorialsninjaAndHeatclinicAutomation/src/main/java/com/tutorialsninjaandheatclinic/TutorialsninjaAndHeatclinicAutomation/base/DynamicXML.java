@@ -126,7 +126,7 @@ public class DynamicXML {
 		String[] classes=excelReader.excelDataProviderArray(FileConstant.CLASSNAME, "className", "Class_Name");
 		String[] activityStatus=excelReader.excelDataProviderArray(FileConstant.CLASSNAME, "className", "Activity_Status");
 		String[] browserName=excelReader.excelDataProviderArray(FileConstant.CLASSNAME, "className", "Browser");
-		System.out.println(classes[0]+classes[1]);
+		//System.out.println(classes[0]+classes[1]);
 		List<XmlSuite> suites = suiteXml(classes,activityStatus,browserName);
 		TestNG testng = new TestNG();
 		testng.setXmlSuites(suites);
